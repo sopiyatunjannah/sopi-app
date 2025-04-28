@@ -1,0 +1,2 @@
+# sopi-app
+Aplikasi pertama
